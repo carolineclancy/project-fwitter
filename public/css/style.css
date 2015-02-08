@@ -1,0 +1,22 @@
+
+
+h1 {
+  font-size: 100px;
+  font-weight: 40px;
+  font-family: 'Chewy', cursive;
+  font-color: #FFFFFF;
+  color:#FFFFFF;
+  border: #FF0066;
+  background: #FF80B2;
+  border-radius: 10px;
+}
+
+br:after {
+    display: block;
+    margin-top: 5px;
+    content: "";
+}
+
+body {
+  background-color: #FF6EA8;
+}
